@@ -1,0 +1,27 @@
+{
+    "visual": {
+        "name": "circleCard",
+        "displayName": "WhiteCube new visual",
+        "guid": "circleCardFC47BF1AEE504E8982FB61432192790A",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "Test new componente",
+        "supportUrl": "http://www.whitecube.com.br",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Agnaldo Alves",
+        "email": "agnaldo.alves@whitecube.com.br"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [
+
+    ],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}

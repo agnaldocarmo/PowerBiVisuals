@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Agnaldo Alves","email":"agnaldo.alves@whitecube.com.br"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCardFC47BF1AEE504E8982FB61432192790A.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"WhiteCube new visual","guid":"circleCardFC47BF1AEE504E8982FB61432192790A","visualClassName":"Visual","version":"1.0.0","description":"Test new componente","supportUrl":"http://www.whitecube.com.br","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
